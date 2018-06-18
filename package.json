@@ -1,0 +1,18 @@
+{
+  "name": "react-jsoneditor",
+  "version": "1.0.0",
+  "description": "A Json-Formatted Form Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:DaviGao/React-JsonEditor.git"
+  },
+  "keywords": [
+    "JsonEditor"
+  ],
+  "author": "DaviGao",
+  "license": "MIT"
+}
